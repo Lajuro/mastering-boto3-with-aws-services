@@ -3,7 +3,10 @@
 In this project, we will launch an EC2 instance using boto3.
 
 > **Note**
+>
 > Read the [first steps](../FIRST_STEPS.md) to configure your environment.
+
+All the information about `EC2 for BOTO3` you can find [here](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2.html).
 
 ## Launching an EC2 instance
 

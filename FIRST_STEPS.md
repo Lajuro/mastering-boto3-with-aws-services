@@ -35,17 +35,18 @@ pip install boto3
 ```
 
 > **Warning**
+>
 > If you use Bash, it will work properly, but for PowerShell and CMD you will need to use the following command:
-
-```bash
-python -m venv .venv
-
-# PowerShell
-.venv\Scripts\Activate.ps1
-
-# CMD
-.venv\Scripts\activate.bat
-```
+>
+> ```bash
+> python -m venv .venv
+> 
+> # PowerShell
+> .venv\Scripts\Activate.ps1
+> 
+> # CMD
+> .venv\Scripts\activate.bat
+> ```
 
 ## AWS account
 
